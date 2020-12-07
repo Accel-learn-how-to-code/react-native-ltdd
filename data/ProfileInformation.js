@@ -16,7 +16,7 @@ const ProfileInformation = [
   {
     id: '3',
     title: 'Twitter',
-    description: '@AacceleloliconN',
+    description: '@Aaccelelolicon',
     imageUri:
       'https://i.pinimg.com/564x/d5/f7/ef/d5f7efb5c1babc9bb53c093e25f0a2fb.jpg',
   },
